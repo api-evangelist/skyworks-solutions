@@ -1,7 +1,12 @@
 aid: skyworks-solutions
-url: https://raw.githubusercontent.com/api-evangelist/skyworks-solutions/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/skyworks-solutions/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.skyworks-solutions.com
+description: >-
+  Skyworks Solutions is an American semiconductor company that designs, manufactures,
+  and markets proprietary semiconductor products for wireless communications, automotive,
+  broadband, smart energy, and industrial applications.
