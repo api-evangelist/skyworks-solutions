@@ -1,0 +1,211 @@
+vocabulary:
+  name: Skyworks Solutions Vocabulary
+  description: >-
+    Domain vocabulary for Skyworks Solutions, covering semiconductor product
+    categories, wireless technologies, design resources, and application markets
+    for RF, analog, and mixed-signal semiconductor products.
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  tags:
+    - Semiconductors
+    - Wireless
+    - Connectivity
+    - Electronics
+    - IoT
+    - 5G
+
+terms:
+  # Core Technology Terms
+  - term: RF Front-End Module (FEM)
+    definition: >-
+      An integrated semiconductor module that contains all active and passive
+      components required for RF signal transmission and reception, including
+      power amplifiers, filters, switches, and low-noise amplifiers. Skyworks
+      holds approximately 35% market share in 5G RF front-end modules.
+    tags:
+      - Semiconductors
+      - Wireless
+      - 5G
+
+  - term: Power Amplifier (PA)
+    definition: >-
+      A semiconductor device that amplifies the power of a radio frequency signal
+      for transmission. Power amplifiers are central to Skyworks' mobile product
+      line and are critical components in smartphones and cellular infrastructure.
+    tags:
+      - Semiconductors
+      - Wireless
+
+  - term: Low-Noise Amplifier (LNA)
+    definition: >-
+      An electronic amplifier used to amplify very weak signals received by an
+      antenna while adding minimal noise. Used in receiver chains in mobile,
+      IoT, and infrastructure applications.
+    tags:
+      - Semiconductors
+      - Wireless
+
+  - term: Filter
+    definition: >-
+      A passive or active semiconductor device that allows specific frequency
+      ranges to pass while attenuating others. Critical in RF design to separate
+      transmission and reception bands and reduce interference.
+    tags:
+      - Semiconductors
+      - Wireless
+
+  - term: Switch
+    definition: >-
+      A semiconductor device that connects or disconnects RF signal paths.
+      Used in multi-band, multi-mode mobile devices and antenna switching.
+    tags:
+      - Semiconductors
+      - Wireless
+
+  - term: Digital Isolator
+    definition: >-
+      A semiconductor component that transfers digital signals between circuits
+      with different voltage potentials while providing electrical isolation.
+      Skyworks' Si86Px family provides integrated isolated power with digital isolation.
+    tags:
+      - Semiconductors
+      - Industrial
+      - Safety
+
+  - term: GaN (Gallium Nitride)
+    definition: >-
+      A wide-bandgap semiconductor material used in high-power, high-frequency
+      RF devices. Skyworks leverages GaN technology for higher power density and
+      efficiency in infrastructure and defense applications.
+    tags:
+      - Semiconductors
+      - Materials
+
+  # Application Markets
+  - term: 5G
+    definition: >-
+      Fifth-generation mobile network technology requiring advanced RF front-end
+      components supporting sub-6 GHz and millimeter wave (mmWave) frequency bands.
+      Skyworks' primary mobile market driver.
+    tags:
+      - Wireless
+      - Mobile
+
+  - term: V2X (Vehicle-to-Everything)
+    definition: >-
+      Communication technology enabling vehicles to communicate with other vehicles,
+      infrastructure, networks, and pedestrians. Part of Skyworks' automotive product
+      segment, which represents approximately 15% of revenue.
+    tags:
+      - Automotive
+      - Connectivity
+
+  - term: ADAS (Advanced Driver Assistance Systems)
+    definition: >-
+      Electronic systems in vehicles that assist drivers and enhance safety.
+      Skyworks provides RF and connectivity semiconductors for radar, LIDAR,
+      and vehicle communication systems.
+    tags:
+      - Automotive
+      - Safety
+
+  - term: IoT (Internet of Things)
+    definition: >-
+      Network of physical devices embedded with sensors, software, and connectivity.
+      Skyworks provides Wi-Fi, Bluetooth, Zigbee, and sub-GHz connectivity ICs
+      for IoT and connected home applications.
+    tags:
+      - IoT
+      - Connectivity
+
+  - term: Connected Home
+    definition: >-
+      Consumer and residential applications including smart speakers, Wi-Fi routers,
+      smart meters, and home automation devices. Skyworks provides multi-band
+      Wi-Fi and Bluetooth connectivity solutions for this segment.
+    tags:
+      - IoT
+      - Consumer
+
+  # Product Categories
+  - term: Attenuator
+    definition: >-
+      A passive semiconductor device that reduces the amplitude of an RF signal
+      without distortion. Used in test equipment, base stations, and receiver chains.
+    tags:
+      - Semiconductors
+      - Components
+
+  - term: Voltage-Controlled Oscillator (VCO)
+    definition: >-
+      An electronic oscillator whose output frequency can be varied by a control
+      voltage. Used in frequency synthesizers and phase-locked loops.
+    tags:
+      - Semiconductors
+      - Components
+
+  - term: Phase-Locked Loop (PLL)
+    definition: >-
+      A closed-loop control system that generates a signal synchronized in
+      frequency and phase with an input signal. Critical in wireless communication
+      frequency synthesis.
+    tags:
+      - Semiconductors
+      - Components
+
+  - term: Diversity Receive Module
+    definition: >-
+      A module combining receive switching, filtering, and amplification to
+      support antenna diversity in smartphones, improving signal quality
+      in multi-band LTE and 5G devices.
+    tags:
+      - Semiconductors
+      - Mobile
+
+  # Design Resources
+  - term: Evaluation Board (EVB)
+    definition: >-
+      A printed circuit board provided by Skyworks that demonstrates component
+      performance in a reference circuit design, enabling engineers to prototype
+      and test semiconductor functionality before system integration.
+    tags:
+      - Design Resources
+      - Engineering
+
+  - term: Datasheet
+    definition: >-
+      A technical document specifying the electrical characteristics, pin
+      configurations, application circuits, and performance parameters for
+      a Skyworks semiconductor product.
+    tags:
+      - Documentation
+      - Engineering
+
+  - term: SPICE Model
+    definition: >-
+      A simulation model representing the electrical behavior of a semiconductor
+      component, used in circuit simulation software such as LTspice or ADS
+      for design verification before hardware prototyping.
+    tags:
+      - Design Resources
+      - Simulation
+
+  # Standards
+  - term: Wi-Fi 6E / Wi-Fi 7
+    definition: >-
+      IEEE 802.11ax/be wireless LAN standards operating across 2.4 GHz, 5 GHz,
+      and 6 GHz bands, providing higher throughput and lower latency for connected
+      home and IoT applications. Skyworks provides front-end modules for Wi-Fi 6E/7.
+    tags:
+      - Wireless
+      - Standards
+
+  - term: Bluetooth Low Energy (BLE)
+    definition: >-
+      A short-range wireless protocol designed for low-power IoT and wearable
+      applications, operating at 2.4 GHz. Skyworks provides integrated
+      Bluetooth solutions for IoT and consumer electronics.
+    tags:
+      - Wireless
+      - IoT
+      - Standards
