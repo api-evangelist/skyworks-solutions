@@ -53,7 +53,7 @@ common:
     url: https://www.linkedin.com/company/skyworks-solutions-inc
   - type: Vocabulary
     url: vocabulary/skyworks-solutions-vocabulary.yml
-  - type: JSON-LD
+  - type: JSONLD
     url: json-ld/skyworks-solutions-context.jsonld
 maintainers:
   - FN: Kin Lane
