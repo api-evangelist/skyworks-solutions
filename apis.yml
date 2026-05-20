@@ -31,6 +31,8 @@ description: >-
   hardware engineers.
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/SkyworksSolutionsInc
   - type: Website
     url: https://www.skyworksinc.com
   - type: About
