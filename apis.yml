@@ -32,6 +32,8 @@ description: >-
   hardware engineers.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/skyworks-solutions-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/SkyworksSolutionsInc
   - type: Website
@@ -58,6 +60,8 @@ common:
     url: vocabulary/skyworks-solutions-vocabulary.yml
   - type: JSONLD
     url: json-ld/skyworks-solutions-context.jsonld
+  - url: https://investors.skyworksinc.com/rss/news-releases.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
