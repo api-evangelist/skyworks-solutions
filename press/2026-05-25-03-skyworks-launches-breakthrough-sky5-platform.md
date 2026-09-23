@@ -1,7 +1,9 @@
 ---
 title: Skyworks Launches Breakthrough Sky5™ Platform
 url: https://investors.skyworksinc.com/news-releases/news-release-details/skyworks-launches-breakthrough-sky5tm-platform
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Skyworks Solutions" press release artificial intelligence'
 position: 3
 source: serpapi-google

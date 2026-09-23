@@ -1,7 +1,9 @@
 ---
 title: Skyworks AI Dialog Boost
 url: https://www.ces.tech/ces-innovation-awards/2025/skyworks-ai-dialog-boost/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Skyworks Solutions" press release artificial intelligence'
 position: 4
 source: serpapi-google

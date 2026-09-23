@@ -1,7 +1,9 @@
 ---
 title: 'Skyworks Solutions (SWKS) Beats Q4 Estimates: AI-Driven ...'
 url: https://finance.yahoo.com/news/skyworks-solutions-swks-beats-q4-120321716.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Skyworks Solutions" press release artificial intelligence'
 position: 5
 source: serpapi-google
